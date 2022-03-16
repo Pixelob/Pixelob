@@ -1,4 +1,4 @@
-- :) Hi, I’m @Pixelob
+- Hi, I’m @Pixelob :)
 
 <!---
 Pixelob/Pixelob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
